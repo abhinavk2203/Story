@@ -1,1 +1,1 @@
-This is the 2nd page of intro to git and GitHub.
+This is the NEW CHANGE TO 2nd page of intro to git and GitHub.

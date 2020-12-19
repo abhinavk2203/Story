@@ -1,1 +1,1 @@
-This is the 3rd part of intro to git and GitHub.
+This is the NEW CHANGE TO 3rd part of intro to git and GitHub.
